@@ -16,7 +16,7 @@
 
 Simply clone the repository and run these codes:
 
-[![Deploy](https://telegra.ph/file/ca8fb2385298d3e55c7c7.mp4)](https://heroku.com/deploy?template=https://github.com/Xlaaf/Search-Anime-Bot.git)
+[![Deploy](https://telegra.ph/file/d9c2a4ce8d83bf373a7d4.jpg)](https://heroku.com/deploy?template=https://github.com/Xlaaf/Search-Anime-Bot.git)
 
 
 ```sh
